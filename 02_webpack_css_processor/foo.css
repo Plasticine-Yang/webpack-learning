@@ -1,0 +1,14 @@
+:-webkit-full-screen {
+  padding: 10px;
+  background-color: cyan;
+}
+:-ms-fullscreen {
+  padding: 10px;
+  background-color: cyan;
+}
+:fullscreen {
+  padding: 10px;
+  background-color: cyan;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9jc3MvaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsYUFBYTtFQUNiLHNCQUFzQjtBQUN4QjtBQUhBO0VBQ0UsYUFBYTtFQUNiLHNCQUFzQjtBQUN4QjtBQUhBO0VBQ0UsYUFBYTtFQUNiLHNCQUFzQjtBQUN4QiIsImZpbGUiOiJmb28uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiOmZ1bGxzY3JlZW4ge1xuICBwYWRkaW5nOiAxMHB4O1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBjeWFuO1xufVxuIl19 */
