@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: #1d3557;
+}
+
+.box {
+  height: 500px;
+  width: 500px;
+  background-color: #457b9d;
+}
