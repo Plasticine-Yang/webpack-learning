@@ -1,0 +1,12 @@
+.bg-img {
+  background-image: url('../img/img2.jpg');
+  background-size: cover;
+}
+
+.icon {
+  width: 10em;
+  height: 10em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
